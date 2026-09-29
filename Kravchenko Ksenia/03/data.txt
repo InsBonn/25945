@@ -1,0 +1,2 @@
+echo "secret" > data.txt
+chmod 600 data.txt
