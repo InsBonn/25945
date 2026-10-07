@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -O2 -Wall
-TARGET = line_lookup_alarm
-SRC = line_lookup_alarm.c
+TARGET = line_info_alarm
+SRC = line_info_alarm.c
 
 all: $(TARGET)
 

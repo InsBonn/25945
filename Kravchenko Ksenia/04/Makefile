@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -O2 -Wall
-TARGET = list_strings
-SRC = list_strings.c
+TARGET = strings
+SRC = strings.c
 
 all: $(TARGET)
 

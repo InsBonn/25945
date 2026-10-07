@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -O2 -Wall
-TARGET = line_lookup
-SRC = line_lookup.c
+TARGET = line_info
+SRC = line_info.c
 
 all: $(TARGET)
 
